@@ -1,20 +1,23 @@
-# Chatter
+<h1 align="center">🗨️ Chatter</h1>
 
-### Tech stack
+### 🚀 [Live Demo](https://chatter-40vx.onrender.com/)
 
--   🌟 Tech stack: Node(Express) + Socket.io + React + TailwindCSS + Daisy UI
--   🎃 Authentication && Authorization with JWT
--   👾 Real-time messaging with Socket.io
--   🚀 Online user status (Socket.io and React Context)
--   👌 Global state management with Zustand
--   🐞 Error handling both on the server and on the client
--   ⭐ Custom hooks for handling forms and authentication
--   ⏳ Loading state for async operations
--   🐳 Dockerize the app
--   🚀 Deploy on production
+![Preview](/public/preview.png)
 
+### 🔨 Tech stack
 
-### Run the app locally
+- 🌟 Tech stack: Node(Express) + Socket.io + React + TailwindCSS + Daisy UI
+- 🎃 Authentication && Authorization with JWT
+- 👾 Real-time messaging with Socket.io
+- 🚀 Online user status (Socket.io and React Context)
+- 👌 Global state management with Zustand
+- 🐞 Error handling both on the server and on the client
+- ⭐ Custom hooks for handling forms and authentication
+- ⏳ Loading state for async operations
+- 🚀 Deploy on production
+<!-- - 🐳 Dockerize the app -->
+
+### 👩‍💻 Run the app locally
 
 1. Clone the repository
 
@@ -31,7 +34,7 @@ npm install
 3. Create a `.env` file in the root directory and add the following environment variables:
 
 ```js
-cp .env.example .env
+cp.env.example.env;
 ```
 
 4. Start the app
